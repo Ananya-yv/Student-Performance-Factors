@@ -1,5 +1,5 @@
 # Student Performance Factors
-This repository contains a python project analysing students, scores based on various factors.
+This repository contains a python project analysing students scores based on various factors.
 
 ### Objective:
 The goal of this project is to identify the most significant predictors of student success and examine how various factors—both academic and non-academic—interact to influence performance.
